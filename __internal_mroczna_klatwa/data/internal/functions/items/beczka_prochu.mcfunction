@@ -1,0 +1,1 @@
+give @p minecraft:pink_glazed_terracotta{display:{Name:"\"§6§lBeczka Prochu\"",Lore:["§eQuest Item"]},CanPlaceOn:["minecraft:black_glazed_terracotta"]} 1

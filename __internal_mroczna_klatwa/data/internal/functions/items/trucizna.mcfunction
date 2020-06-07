@@ -1,0 +1,1 @@
+give @s splash_potion{CustomPotionColor:52290,CustomPotionEffects:[{Duration:300,Id:20,Amplifier:1b,ShowParticles:0b}],HideFlags:63,display:{Lore:["","§7Zatrucie §lII §f(§c15s§f)"],Name:"\"§f§lTrucizna\""}}

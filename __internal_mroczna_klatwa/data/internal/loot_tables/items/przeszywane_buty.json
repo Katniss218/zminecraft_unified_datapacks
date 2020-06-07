@@ -1,0 +1,31 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:leather_boots",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 3,
+									"slot": "feet",
+									"name": "Armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lPrzeszywane buty\\\"\",Lore:[\"\",\"§6Ochrona: §e§l3\"],color:13618121},Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "internal:side_quests/q_kapitan_lodzi/1",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Szczury na pokładzie\"","color":"gray","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Zbierz składniki na trutkę:\n2x Czerwony grzyb\n1x Jelito ogra\n1x Kula szlamowa\nGrzyby powinieneś znaleźć w Grzybowym Lesie, nieopodal miasta, Ogry też tam są. A Kulę szlamową zdobędziesz w Kanałach Thoriany. Jak już je zbierzesz, wróć do Salima","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:red_mushroom"}}] run data merge entity @s {Item:{tag:{RatPoisonIngredient:1b,display:{Name:"\"§6§lCzerwony grzyb\"",Lore:["§eQuest Item"]}}}}

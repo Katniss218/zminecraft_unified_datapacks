@@ -1,0 +1,38 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:iron_sword",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 5,
+									"slot": "mainhand",
+									"name": "Attack Damage",
+									"attribute": "generic.attackDamage",
+									"operation": "addition"
+								},
+								{
+									"amount": -2.0,
+									"slot": "mainhand",
+									"name": "Attack Speed",
+									"attribute": "generic.attackSpeed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lKrótki miecz\\\"\",Lore:[\"\",\"§6Obrażenia: §e§l5\",\"§6Szybkość: §e§l||§8§l|\"]},Damage:1s,Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

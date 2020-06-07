@@ -1,0 +1,1 @@
+give @p minecraft:shears{CanDestroy:["minecraft:red_mushroom"],display:{Name:"\"§6§lNożyce do ścinania grzybów\"",Lore:["§eQuest Item"]},Damage:236} 1

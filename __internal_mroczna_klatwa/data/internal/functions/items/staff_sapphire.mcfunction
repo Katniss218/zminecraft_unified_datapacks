@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{StaffSapphire:1b,Unbreakable:1,HideFlags:63,display:{Name:"\"§f§lRóżdżka z szafirem\"",Lore:["§8Spowalnia trafionych przeciwników na 25s","","§6Obrażenia: §e§l12","§6Szybkość: §a§l|||","§5Użycie Many: §rÔÔÔ"]},Damage:11} 1

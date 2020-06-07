@@ -1,0 +1,1 @@
+effect give @a[distance=..2] instant_damage 1 0

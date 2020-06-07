@@ -1,0 +1,1 @@
+data merge block 226 61 951 {Items:[{id:"minecraft:rabbit_hide",Count:1b,Slot:25,tag:{ZlamanyZakletyKlucz:1b,display:{Name:"\"§6§lZłamany zaklęty klucz\"",Lore:["§eQuest Item"]}}}]}

@@ -1,0 +1,1 @@
+give @s minecraft:dark_prismarine{RatPoison:1b,CanPlaceOn:["minecraft:black_glazed_terracotta"],display:{Name:"\"§6§lSkrzynia z trutką na szczury\"",Lore:["§eQuest Item"]}}

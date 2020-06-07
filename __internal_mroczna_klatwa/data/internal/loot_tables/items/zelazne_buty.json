@@ -1,0 +1,31 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:iron_boots",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 6,
+									"slot": "feet",
+									"name": "Armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lŻelazne buty\\\"\",Lore:[\"\",\"§6Ochrona: §e§l6\"]},Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"values": [
+		"internal:ai/_loop_ai",
+		"internal:track_enemies_health",
+		"internal:update_bossbars",
+		"internal:on_hurt_listener",
+		"internal:update_players",
+		"internal:harquebus/tick",
+		"internal:projectiles/tick",
+		"internal:quests/q_olaf/tick",
+		"internal:quests/q_hagel/tick",
+		"internal:1tick"
+	]
+}

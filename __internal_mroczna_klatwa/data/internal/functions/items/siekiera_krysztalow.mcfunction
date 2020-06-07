@@ -1,0 +1,1 @@
+give @s minecraft:iron_axe{display:{Name:"\"§6§lSiekiera do niszczenia kryształów\"",Lore:["","§7Może zniszczyć:","§8 Kryształ dusz"]},CanDestroy:["minecraft:magenta_stained_glass"],HideFlags:63,Unbreakable:1b,Enchantments:[{id:"minecraft:silk_touch",lvl:1}]} 1

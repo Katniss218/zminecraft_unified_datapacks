@@ -1,0 +1,1 @@
+give @p minecraft:wheat{ZbozeFarmera:1b,display:{Name:"\"§6§lZboże farmera\"",Lore:["§eQuest Item"]}} 1

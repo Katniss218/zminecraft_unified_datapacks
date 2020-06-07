@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Nieumarły problem\"","color":"yellow","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Idź do Maltorna, znajdziesz go w domu poza wioską. Wyjdź od strony południa, przez jaskinię. Idź tam, gdzie Cię skieruje.","color":"gray"}],
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/block/yellow_concrete_powder.png"
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

@@ -1,0 +1,2 @@
+execute unless entity @s[nbt={SelectedItem:{tag:{Harquebus:1b,stats:{Amplified:1b}}}}] run function internal:harquebus/shoot_normal
+execute if entity @s[nbt={SelectedItem:{tag:{Harquebus:1b,stats:{Amplified:1b}}}}] run function internal:harquebus/shoot_sniper

@@ -1,0 +1,1 @@
+execute positioned 351 63.5 507 facing entity @p feet run tp @e[tag=seker] ~ ~ ~ ~ ~

@@ -1,0 +1,20 @@
+{
+	"parent": "internal:side_quests/q_kapitan_lodzi/2",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Szczury na pokładzie\"","color":"gray","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Podłóż trutkę w ładowni statku.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

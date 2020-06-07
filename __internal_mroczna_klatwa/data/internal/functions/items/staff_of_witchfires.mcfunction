@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{StaffOfWitchfires:1b,Unbreakable:1,HideFlags:63,display:{Lore:["","§6Obrażenia: §e§l12","§6Szybkość: §a§l|||","§5Użycie Many: §rÔÔ"],Name:"\"§f§lRózga wiedźmogni\""},Damage:3} 1

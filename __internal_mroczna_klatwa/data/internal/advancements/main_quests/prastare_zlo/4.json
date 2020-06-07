@@ -1,0 +1,21 @@
+{
+	"parent": "internal:main_quests/prastare_zlo/3",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Prastare zło\"","color":"yellow","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Idź do maga Ziruna, aby dowiedzieć się co jest napisane na kartce kapłana.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/block/gold_block.png"
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

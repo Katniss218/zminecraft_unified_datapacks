@@ -1,0 +1,1 @@
+give @s minecraft:magenta_dye{Resource:"witchfire",display:{Name:"\"§f§lWiedźmogień\"",Lore:["§8Starożytny płomień o dziwnych, magicznych mocach."]}} 1

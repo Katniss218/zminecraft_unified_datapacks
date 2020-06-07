@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {Tags:["projectile_icicle"],Marker:1b,Invisible:1b,NoGravity:1b,Invulnerable:1b,DisabledSlots:4144959,ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{Damage:29}}]}

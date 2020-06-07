@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:bow",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lKompozytowy łuk\\\"\",Lore:[\"\",\"§6Obrażenia: §e§l3-15\"]},Damage:1s,Enchantments:[{id:\"minecraft:power\",lvl:1}],Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

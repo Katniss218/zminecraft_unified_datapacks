@@ -1,0 +1,2 @@
+execute unless score __global__ game_started matches 1 as @a[tag=!Player,tag=!Creator] run function internal:setup_player
+execute if score __global__ game_started matches 1 as @a[tag=!Player,tag=!Creator] run function internal:disable_player

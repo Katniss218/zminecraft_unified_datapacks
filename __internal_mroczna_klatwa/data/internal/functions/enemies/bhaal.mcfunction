@@ -1,0 +1,5 @@
+summon spider ~ ~ ~ {CustomName:"{\"text\":\"§6§lBoss §c§l§nBhaal\"}",Tags:["hostile","bhaal","multipart-root","hit_effect-blood"],PersistenceRequired:1,Attributes:[{Name:generic.followRange,Base:32},{Name:generic.maxHealth,Base:450},{Name:generic.movementSpeed,Base:0.25F},{Name:"generic.armor",Base:16},{Name:generic.knockbackResistance,Base:1F},{Name:"generic.attackDamage",Base:13}],Health:450.0f,DeathLootTable:"internal:enemies/bhaal",ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999999,ShowParticles:0b}]}
+summon armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Marker:1b,Invisible:1b,PersistenceRequired:1b,Tags:["hostile","multipart","bhaal_model"],DisabledSlots:4144959,ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{Damage:5}}]}
+summon armor_stand ~ ~ ~ {CustomName:"{\"text\":\"§6§lBoss §c§l§nBhaal\"}",CustomNameVisible:1b,NoGravity:1b,Invulnerable:1b,Marker:1b,Invisible:1b,PersistenceRequired:1b,Tags:["hostile","multipart","bhaal_name"],DisabledSlots:4144959}
+function katniss:mes/on_spawn_multipart
+function katniss:mes/at

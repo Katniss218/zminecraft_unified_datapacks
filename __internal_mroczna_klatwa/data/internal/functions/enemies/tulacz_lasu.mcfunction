@@ -1,0 +1,5 @@
+summon zombie ~ ~ ~ {CustomName:"{\"text\":\"§c§lTułacz lasu\"}",Tags:["hostile","lesny_zombie","hit_effect-blood"],PersistenceRequired:1,IsVillager:0,IsBaby:0,ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:5624118}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:5624118}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:5624118}}},{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:{Id:"52821614-30c6-4f26-ab95-2b27f228fb29",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2E4ZDE0Zjk0NTIyNDMyOTM0MWVhMGI5OTQ1NmJmN2ExNDRiODdmODJhZDZhODhkYmViMjdhMTAyNWFkMTEifX19"}]}}}}],ArmorDropChances:[0F,0F,0F,0F],Attributes:[{Name:zombie.spawnReinforcements,Base:0},{Name:generic.followRange,Base:24},{Name:generic.maxHealth,Base:30},{Name:generic.movementSpeed,Base:0.2F},{Name:"generic.armor",Base:-6},{Name:"generic.attackDamage",Base:5}],Health:30.0f,DeathLootTable:"internal:enemies/tulacz_lasu"}
+
+
+# raw dmg: 5
+# raw armor: 0

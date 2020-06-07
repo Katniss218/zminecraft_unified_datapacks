@@ -1,0 +1,43 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/moneta_zlota"
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/krotki_miecz"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/miecz_jednoreczny"
+				}
+			]
+		},{
+			"rolls":
+			{
+				"min": 1, "max": 2
+			},
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/przeszywana_zbroja"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/wzmocniona_skorzana_zbroja"
+				}
+			]
+		}
+	]
+}

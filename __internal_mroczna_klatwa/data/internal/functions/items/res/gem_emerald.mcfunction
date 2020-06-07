@@ -1,0 +1,1 @@
+give @s minecraft:emerald{Resource:"emerald",display:{Name:"\"§f§lSzmaragd\"",Lore:["§8Zielony kamień szlachetny."]}} 1

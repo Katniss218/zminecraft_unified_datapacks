@@ -1,0 +1,1 @@
+give @s potion{CustomPotionColor:459538,CustomPotionEffects:[{Duration:800,Id:1},{Duration:800,Id:5}],HideFlags:63,display:{Lore:["","§7Szybkość §lI §f(§a40s§f)","§7Siła §lI §f(§a40s§f)"],Name:"\"§f§lEliksir szału\""}}

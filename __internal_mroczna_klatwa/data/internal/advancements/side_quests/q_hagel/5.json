@@ -1,0 +1,20 @@
+{
+	"parent": "internal:side_quests/q_hagel/4",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Tajemnice Lasu\"","color":"gray","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Pokonaj Sekera.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

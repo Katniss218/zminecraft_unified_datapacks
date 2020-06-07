@@ -1,0 +1,2 @@
+give @s diamond_axe{AmuletType:6,Damage:6,HideFlags:63,Unbreakable:1,display:{Lore:["","§7> §a+§2§l2 §7Ochrony","§7> §7Regeneracja §lI"],Name:"\"§f§lNaszyjnik z esencji Latose\""},AttributeModifiers:[{UUIDMost:712653,UUIDLeast:232846,Amount:2d,Slot:"offhand",AttributeName:"generic.armor",Operation:0,Name:"Armor"}]}
+###################################################################################################################################################################################################################################################

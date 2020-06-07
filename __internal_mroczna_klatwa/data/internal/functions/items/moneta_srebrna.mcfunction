@@ -1,0 +1,1 @@
+give @p minecraft:prismarine_shard{display:{Name:"{\"text\":\"§7§lSrebrna moneta\"}"}} 1

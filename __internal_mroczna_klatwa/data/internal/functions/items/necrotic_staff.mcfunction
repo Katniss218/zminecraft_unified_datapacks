@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{StaffNecrotic:1b,Unbreakable:1,HideFlags:63,display:{Lore:["§8Wysysa życie z pobliskich przeciwników, leczy gracza.","","§6Obrażenia: §e§l12","§6Szybkość: §a§l|||","§5Użycie Many: §rÔÔÔÔÔÔÔÔ"],Name:"\"§f§lNekrotyczna rózga\""},Damage:14} 1

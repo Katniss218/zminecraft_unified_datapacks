@@ -1,0 +1,1 @@
+execute rotated ~ 0 run particle minecraft:dust 0.1 0.1 0.1 1.5 ^ ^1.6 ^ 0.25 0.2 0.25 0 40 normal @a

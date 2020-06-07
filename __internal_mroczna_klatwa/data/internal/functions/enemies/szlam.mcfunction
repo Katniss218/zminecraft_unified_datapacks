@@ -1,0 +1,1 @@
+summon slime ~ ~ ~ {Size:3,CustomName:"{\"text\":\"§c§lSzlam\"}",Tags:["hostile","szlam","hit_effect-blood"],PersistenceRequired:1,Attributes:[{Name:generic.followRange,Base:24},{Name:generic.maxHealth,Base:80},{Name:generic.movementSpeed,Base:0.28F},{Name:"generic.armor",Base:4},{Name:"generic.attackDamage",Base:10}],Health:80.0f,DeathLootTable:"internal:enemies/szlam"}

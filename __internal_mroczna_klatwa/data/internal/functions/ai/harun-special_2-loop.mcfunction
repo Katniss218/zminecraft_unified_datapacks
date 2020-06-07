@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=harun_shield] facing entity @p eyes run tp @s ^ ^ ^1.75
+execute as @e[type=armor_stand,tag=harun_shield] at @s facing entity @p eyes run function internal:ai/harun-special_2-loop_as

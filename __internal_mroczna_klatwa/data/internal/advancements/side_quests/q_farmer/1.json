@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Kłopoty farmera\"","color":"gray","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Odzyskaj zboże skradzione farmerowi przez bandytów.","color":"gray"}],
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/block/light_gray_concrete_powder.png"
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "internal:main_quests/nieumarly_problem/1",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Nieumarły problem\"","color":"yellow","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Podejrzyj co się dzieje w krypcie na pobliskim cmentarzu.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

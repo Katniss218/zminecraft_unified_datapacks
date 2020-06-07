@@ -1,0 +1,38 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_shovel",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 8,
+									"slot": "mainhand",
+									"name": "Attack Damage",
+									"attribute": "generic.attackDamage",
+									"operation": "addition"
+								},
+								{
+									"amount": -2.0,
+									"slot": "mainhand",
+									"name": "Attack Speed",
+									"attribute": "generic.attackSpeed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lDługi miecz\\\"\",Lore:[\"\",\"§6Obrażenia: §e§l8\",\"§6Szybkość: §e§l||§8§l|\"]},Damage:1s,Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

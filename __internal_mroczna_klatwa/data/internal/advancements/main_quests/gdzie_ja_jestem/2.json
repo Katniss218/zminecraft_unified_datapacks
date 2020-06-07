@@ -1,0 +1,21 @@
+{
+	"parent": "internal:main_quests/gdzie_ja_jestem/1",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Gdzie ja jestem?\"","color":"yellow","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Wydostań się, uważaj na strażników.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/block/gold_block.png"
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

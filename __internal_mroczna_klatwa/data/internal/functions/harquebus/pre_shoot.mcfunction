@@ -1,0 +1,2 @@
+execute if entity @s[nbt={Inventory:[{tag:{MusketBall:1b}}]}] run function internal:harquebus/check_type
+execute if entity @s[nbt=!{Inventory:[{tag:{MusketBall:1b}}]}] run playsound minecraft:block.dispenser.fail master @s ~ ~ ~ 1 1.5 1

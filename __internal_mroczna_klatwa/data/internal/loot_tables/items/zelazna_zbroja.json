@@ -1,0 +1,26 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/zelazny_helm"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/zelazny_kirys"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/zelazne_nagolenniki"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/zelazne_buty"
+				}
+			]
+		}
+	]
+}

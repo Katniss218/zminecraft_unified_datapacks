@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:dead_horn_coral_fan"}}] run data merge entity @s {Item:{tag:{KwiatLatose:1b,display:{Name:"\"§6§lKwiat Latose\"",Lore:["§8§o- Emanuje z niego wyczuwalna złowieszcza aura.","§eQuest Item"]}}}}

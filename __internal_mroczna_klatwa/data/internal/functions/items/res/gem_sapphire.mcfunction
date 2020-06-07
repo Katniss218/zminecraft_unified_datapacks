@@ -1,0 +1,1 @@
+give @s minecraft:lapis_lazuli{Resource:"sapphire",display:{Name:"\"§f§lSzafir\"",Lore:["§8Niebieski kamień szlachetny."]}} 1

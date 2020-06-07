@@ -1,0 +1,42 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/necrotic_staff"
+				}
+			]
+		},{
+			"rolls": 2,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/moneta_zlota"
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:bucket",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": 1
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{EntityTracker:\"nekromanta\"}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

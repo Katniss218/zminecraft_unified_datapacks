@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:carrot_on_a_stick",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{Harquebus:1b,Reloaded:0b,Unbreakable:1,HideFlags:63,stats:{ReloadTime:100s,Amplified:1b},display:{Name:\"\\\"§f§lKarabin Drake'a\\\"\",Lore:[\"\",\"§6Obrażenia: §e§l24\",\"§6Przeładowanie: §e§l5§e sek.\"]},Damage:2}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

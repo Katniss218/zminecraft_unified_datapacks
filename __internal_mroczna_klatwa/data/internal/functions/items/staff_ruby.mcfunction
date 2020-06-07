@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{StaffRuby:1b,Unbreakable:1,HideFlags:63,display:{Name:"\"§f§lRóżdżka z rubinem\"",Lore:["§8Spowalnia trafionych przeciwników na 10s","","§6Obrażenia: §e§l12","§6Szybkość: §a§l|||","§5Użycie Many: §rÔÔÔ"]},Damage:8} 1

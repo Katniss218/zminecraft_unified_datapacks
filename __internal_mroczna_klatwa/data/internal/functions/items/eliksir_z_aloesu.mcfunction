@@ -1,0 +1,1 @@
+give @s potion{CustomPotionColor:11337503,CustomPotionEffects:[{Duration:600,Id:21},{Duration:600,Id:22}],HideFlags:63,display:{Lore:["","§7Zdrowie §lI §f(§c+❤❤§f) (§a30s§f)","§7Absorpcja §lI §f(§e+❤❤§f) (§a30s§f)"],Name:"\"§f§lWyciąg z Aloesu\""}}

@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{StaffOfFrost:1b,Unbreakable:1,HideFlags:63,display:{Name:"\"§f§lKostur mrozu\"",Lore:["§8Zamraża maksymalnie 8 przeciwników na","§8niedużym obszarze dookoła gracza.","","§6Obrażenia: §e§l6","§6Szybkość: §a§l|||","§5Użycie Many: §rÔÔÔÔÔ"]},Damage:13} 1

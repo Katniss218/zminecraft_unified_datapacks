@@ -1,0 +1,20 @@
+{
+	"parent": "internal:side_quests/q_kowal/1",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Ciężka robota\"","color":"gray","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Wykop 7 rud żelaza dla kowala, jak to zrobisz, wróć do kowala.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}

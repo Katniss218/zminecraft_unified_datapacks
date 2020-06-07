@@ -1,0 +1,29 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "empty",
+					"weight": 10
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/miecz_poltorareczny"
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "empty",
+					"weight": 10
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/zelazna_zbroja"
+				}
+			]
+		}
+	]
+}

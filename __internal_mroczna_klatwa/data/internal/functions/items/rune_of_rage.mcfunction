@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{RuneOfRage:1b,Unbreakable:1,HideFlags:63,display:{Lore:["","§6Po użyciu:","§7> Siła §lI §f(§a15s§f)","§5Użycie Many: §rÔÔÔÔÔÔÔÔÔÔ"],Name:"\"§f§lRuna furii\""},Damage:4} 1

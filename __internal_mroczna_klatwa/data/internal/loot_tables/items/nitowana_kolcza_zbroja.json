@@ -1,0 +1,26 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/nitowany_kolczy_kaptur"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/nitowana_kolcza_tunika"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/nitowane_kolcze_nogawice"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/nitowane_kolcze_buty"
+				}
+			]
+		}
+	]
+}

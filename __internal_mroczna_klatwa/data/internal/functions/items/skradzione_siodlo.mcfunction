@@ -1,0 +1,1 @@
+give @p minecraft:saddle{SkradzioneSiodlo:1b,display:{Name:"\"§6§lSkradzione siodło\"",Lore:["§eQuest Item"]}} 1

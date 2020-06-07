@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:iron_ore"}}] run data merge entity @s {Item:{tag:{RudaZelaza:1b,display:{Name:"\"§6§lRuda żelaza\"",Lore:["§ePrzedmiot Questowy"]}}}}

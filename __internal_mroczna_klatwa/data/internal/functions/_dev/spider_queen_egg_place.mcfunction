@@ -1,0 +1,5 @@
+function random:random_2
+execute if score __global__ random matches 0 run setblock ~ ~ ~ minecraft:player_head[rotation=1]{Owner:{Id:"6d47a1a9-c411-41b5-b3d0-07e2f1eaa6a1",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc4NGI3MTVjMGQyYjE1MGI1NTZmMTZhMjQ2NDBkYWZmMjk3YTRlYzFiZmQ4Nzc1MTk5MDY2MmFjMzZlYjIifX19"}]}}} replace
+execute if score __global__ random matches 1 run setblock ~ ~ ~ minecraft:player_head[rotation=2]{Owner:{Id:"6ca66f14-3575-4ad7-aeac-b74432c99517",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJiOWJlMzM3NWI5OThhYmFkZjI2ODdkYTBiMTQwZDM1NzY5MmRmZGUwOWJkMTdhN2M2OWFlYmZlNmRkNWJhNiJ9fX0="}]}}} replace
+execute align xyz positioned ~0.5 ~ ~0.5 run kill @e[type=armor_stand,tag=krolowa_pajakow-egg,distance=..0.5]
+execute align xyz run summon armor_stand ~0.5 ~ ~0.5 {Invisible:1b,NoGravity:1b,Marker:1b,Tags:["krolowa_pajakow-egg"]}

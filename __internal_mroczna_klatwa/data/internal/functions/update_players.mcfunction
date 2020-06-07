@@ -1,0 +1,1 @@
+execute as @a if score @s right_click matches 1.. at @s run function internal:right_click

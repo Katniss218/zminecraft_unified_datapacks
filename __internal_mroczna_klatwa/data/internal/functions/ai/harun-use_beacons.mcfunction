@@ -1,0 +1,3 @@
+execute positioned as @e[type=area_effect_cloud,tag=harun_beacon] run summon area_effect_cloud ~ ~ ~ {Duration:999999,Tags:["harun_beacon_projectile"]}
+execute positioned as @e[type=area_effect_cloud,tag=harun_beacon] run particle dust 0.6 0.2 0.7 4 ~ ~ ~ 0.4 0.4 0.4 0 4 force @a
+execute positioned as @e[type=area_effect_cloud,tag=harun_beacon] run playsound minecraft:entity.witch.throw master @a ~ ~ ~ 1 0.3

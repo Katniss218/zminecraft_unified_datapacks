@@ -1,0 +1,26 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/przeszywany_helm"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/przeszywany_kaftan"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/przeszywane_spodnie"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/przeszywane_buty"
+				}
+			]
+		}
+	]
+}

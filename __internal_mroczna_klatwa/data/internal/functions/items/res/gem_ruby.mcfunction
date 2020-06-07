@@ -1,0 +1,1 @@
+give @s minecraft:rose_red{Resource:"ruby",display:{Name:"\"§f§lRubin\"",Lore:["§8Czerwony kamień szlachetny."]}} 1

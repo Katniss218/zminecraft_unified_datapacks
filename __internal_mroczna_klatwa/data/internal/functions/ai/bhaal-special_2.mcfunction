@@ -1,0 +1,1 @@
+playsound minecraft:entity.evoker_fangs.attack master @a ~ ~ ~ 1 0.6

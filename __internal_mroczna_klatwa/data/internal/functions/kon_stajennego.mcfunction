@@ -1,0 +1,1 @@
+summon horse ~ ~ ~ {CustomName:"\"§2§lKoń stajennego\"",Invulnerable:1b,DeathLootTable:"internal:empty",PersistenceRequired:1b,Health:40f,Tame:0b,Temper:50,Variant:513,Tags:["kon_stajennego"],Attributes:[{Name:generic.maxHealth,Base:40},{Name:generic.movementSpeed,Base:0.0},{Name:horse.jumpStrength,Base:0.5}],SaddleItem:{}}

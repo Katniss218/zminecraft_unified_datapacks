@@ -1,0 +1,1 @@
+give @s rabbit_foot{KluczDoJaskiniiBhaalaFake:1b,display:{Name:"\"§6§lKlucz\"",Lore:["§eQuest Item","§eKlucz do§6: §7§lJaskinia Bhaal'a"]}} 1

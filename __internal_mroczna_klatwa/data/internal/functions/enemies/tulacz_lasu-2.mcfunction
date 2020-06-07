@@ -1,0 +1,5 @@
+summon zombie ~ ~ ~ {CustomName:"{\"text\":\"§c§lTułacz lasu\"}",Tags:["hostile","lesny_zombie","hit_effect-blood"],PersistenceRequired:1,IsVillager:0,IsBaby:0,HandItems:[{id:"minecraft:stick",Count:1b},{}],ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:5624118}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:5624118}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:5624118}}},{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:{Id:"309896ba-2b68-4b45-817c-ef28a24a0681",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTc3MGRiNDYwMmQ2OWY5NWU0MWYzYzc1ZWJjODQ3ODI0NzY4MGFhM2ZhNjZhOGQ2YzI5NzJiNGY3YTYxYTM4In19fQ=="}]}}}}],HandDropChances:[0F,0F],ArmorDropChances:[0F,0F,0F,0F],Attributes:[{Name:zombie.spawnReinforcements,Base:0},{Name:generic.followRange,Base:24},{Name:generic.maxHealth,Base:40},{Name:generic.movementSpeed,Base:0.2F},{Name:"generic.armor",Base:-6},{Name:"generic.attackDamage",Base:6}],Health:40.0f,DeathLootTable:"internal:enemies/tulacz_lasu"}
+
+
+# raw dmg: 6
+# raw armor: 0

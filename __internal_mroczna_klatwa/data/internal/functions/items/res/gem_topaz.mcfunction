@@ -1,0 +1,1 @@
+give @s minecraft:dandelion_yellow{Resource:"topaz",display:{Name:"\"§f§lTopaz\"",Lore:["§8Żółty kamień szlachetny."]}} 1

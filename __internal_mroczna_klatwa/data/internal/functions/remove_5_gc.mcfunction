@@ -1,0 +1,1 @@
+execute store result score __global__ utils run clear @s minecraft:prismarine_crystals{display:{Name:"{\"text\":\"§6§lZłota moneta\"}"}} 5

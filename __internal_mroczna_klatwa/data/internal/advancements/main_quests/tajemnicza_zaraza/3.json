@@ -1,0 +1,21 @@
+{
+	"parent": "internal:main_quests/tajemnicza_zaraza/2",
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": ["",{"text":"\"Tajemnicza zaraza\"","color":"yellow","bold":true}],
+		"description": ["",{"text":"Cel: ","color":"gold"},{"text":"Wróć do burmistrza i zdaj raport.","color":"gray"}],
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/block/gold_block.png"
+	},
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "impossible",
+			"conditions": {}
+		}
+	}
+}
