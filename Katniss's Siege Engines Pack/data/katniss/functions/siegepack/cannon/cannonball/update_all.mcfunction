@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=cnnball,nbt={OnGround:1b}] positioned as @s run function katniss:siegepack/cannon/cannonball/hit
+execute as @e[type=armor_stand,tag=cnnball,nbt={OnGround:0b}] positioned as @s unless block ~ ~1 ~ air run function katniss:siegepack/cannon/cannonball/hit

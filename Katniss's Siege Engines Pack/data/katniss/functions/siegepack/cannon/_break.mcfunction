@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~ ~0.5 run kill @e[tag=cannon,distance=..0.5]

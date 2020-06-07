@@ -1,0 +1,1 @@
+give @p player_head{CannonBall:1b,display:{Name:"\"§fCannonball\""},SkullOwner:{Id:"d9dc3de0-66f8-4156-888c-ee63da497460",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI1MjNlMTVlOTk4NjM1NWExZjg1MWY0M2Y3NTBlZTNmMjNjODlhZTEyMzYzMWRhMjQxZjg3MmJhN2E3ODEifX19"}]}}} 1

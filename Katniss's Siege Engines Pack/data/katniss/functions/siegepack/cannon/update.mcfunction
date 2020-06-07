@@ -1,0 +1,1 @@
+execute if score @s cannon_rld matches 40.. if entity @e[type=item,distance=..0.7,nbt={Item:{tag:{CannonBall:1b}}}] run function katniss:siegepack/cannon/shoot

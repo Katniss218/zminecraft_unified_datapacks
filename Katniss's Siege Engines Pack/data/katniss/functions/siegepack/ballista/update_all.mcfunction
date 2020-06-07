@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=ballista] positioned as @s if entity @p[distance=..1.5] run function katniss:siegepack/ballista/update

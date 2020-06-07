@@ -1,0 +1,3 @@
+execute align xyz positioned ~0.5 ~ ~0.5 run summon minecraft:armor_stand ~ ~ ~ {DisabledSlots:4144959,UpdateBlocked:1b,Invisible:1b,Marker:1b,Invulnerable:1b,NoAI:1b,Tags:[ballista],ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Damage:3}}]}
+execute align xyz positioned ~0.5 ~ ~0.5 run summon minecraft:armor_stand ~ ~ ~ {DisabledSlots:4144959,UpdateBlocked:1b,Invisible:1b,Marker:1b,Invulnerable:1b,NoAI:1b,Tags:[ballista_base],ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Damage:4}}]}
+setblock ~ ~ ~ minecraft:oak_fence

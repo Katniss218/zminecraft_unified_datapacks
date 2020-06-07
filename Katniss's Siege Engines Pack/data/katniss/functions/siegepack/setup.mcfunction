@@ -1,0 +1,2 @@
+scoreboard objectives add cannon_rld dummy {"text":"cannon_rld","color":"yellow"}
+tellraw @a ["",{"text":"Katniss's Siege Engines Pack ","bold":true,"color":"gold"},{"text":"v1.0.1","color":"yellow","bold":true},{"text":" > ","color":"dark_gray"},{"text":"Loaded!","color":"green","bold":true}]
