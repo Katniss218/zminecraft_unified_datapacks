@@ -1,0 +1,1 @@
+execute as @e[tag=multipart] run function mes:check_root

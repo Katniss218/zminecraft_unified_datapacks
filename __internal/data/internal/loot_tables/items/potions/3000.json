@@ -1,0 +1,34 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:potion",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,ItemId:3000,CustomPotionEffects:[{Id:6b,Amplifier:0b,Duration:1}],HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "translate":"item.3000.name", "color": "blue", "bold": true, "italic": false }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "translate": "item.3000.lore1", "color": "gray", "italic": false },
+								{ "translate": "item.3000.lore2", "color": "gray", "italic": false },
+								{ "text": "" },
+								{ "translate": "item.3000.effect1", "color": "dark_green", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

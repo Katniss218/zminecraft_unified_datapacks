@@ -1,0 +1,1 @@
+summon minecraft:painting -12.50 72.50 150.97 {Motion: [0.0d, 0.0d, 0.0d], Facing: 2b, Invulnerable: 0b, Air: 300s, OnGround: 0b, PortalCooldown: 0, Rotation: [180.0f, 0.0f], FallDistance: 0.0f, Motive: "minecraft:small_cage", Fire: -1s, TileY: 72, TileX: -13, TileZ: 150}

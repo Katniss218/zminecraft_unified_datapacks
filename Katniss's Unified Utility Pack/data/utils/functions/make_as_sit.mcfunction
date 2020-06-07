@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,distance=..2] run data merge entity @s {ShowArms:1,NoGravity:1,Pose:{LeftLeg:[-80f,-22f,0f],RightLeg:[-80f,22f,0f]}}

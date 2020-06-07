@@ -1,0 +1,1 @@
+execute as @e[type=painting] run data merge entity @s {Invulnerable:1b}

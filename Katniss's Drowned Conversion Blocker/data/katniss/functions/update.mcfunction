@@ -1,0 +1,1 @@
+execute as @e[type=zombie] at @s if block ~ ~ ~ #minecraft:water if entity @s[nbt={InWaterTime:500}] run data merge entity @s {InWaterTime:-1}

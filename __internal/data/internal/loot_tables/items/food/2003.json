@@ -1,0 +1,33 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:beef",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,ItemId:2003,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "translate":"item.2003.name", "color": "blue", "bold": true, "italic": false }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "translate":"item.2003.lore1", "color": "gray", "italic": false },
+								{ "text": "" },
+								{ "translate": "item.2003.effect1", "color": "dark_green", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

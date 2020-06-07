@@ -1,0 +1,1 @@
+tp @e[type=armor_stand,distance=..2] ~ ~-1 ~

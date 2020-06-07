@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand] run data merge entity @s {Invulnerable:1b,DisabledSlots:4144959}
