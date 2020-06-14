@@ -1,0 +1,50 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:chainmail_chestplate",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,Damage:0,Unbreakable:1,HideFlags:63}"
+						},{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 5.0,
+									"slot": "chest",
+									"name": "Armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},{
+							"function": "set_name",
+							"name": { "text": "Prosta kolcza tunika", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Prosta tunika, z metalowych", "color": "dark_gray", "italic": false },
+								{ "text": "  kółek przeplecionych ze sobą.", "color": "dark_gray", "italic": false },
+								
+								{ "text": "" },
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "Ã 5", "color": "white" }
+								]
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

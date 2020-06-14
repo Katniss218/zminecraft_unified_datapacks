@@ -1,0 +1,50 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_leggings",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:2,Damage:0,Unbreakable:1,HideFlags:63}"
+						},{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 8.0,
+									"slot": "legs",
+									"name": "Armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},{
+							"function": "set_name",
+							"name": { "text": "Stalowe nagolenniki", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Wytrzymałe nagolenniki ze stali, zimne", "color": "dark_gray", "italic": false },
+								{ "text": "  w dotyku.", "color": "dark_gray", "italic": false },
+								
+								{ "text": "" },
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "Ã 8", "color": "white" }
+								]
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

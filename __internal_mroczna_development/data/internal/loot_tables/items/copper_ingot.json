@@ -1,0 +1,31 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_ingot",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:3,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "Sztabka miedzi", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Sztabka z bardzo miękkiej miedzi.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:emerald",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "NAZWA KLUCZA", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  PRZYKŁADOWY OPIS KLUCZA", "color": "dark_gray", "italic": false },
+								{ "text": "  DRUGA LINIJKA OPISU KLUCZA.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

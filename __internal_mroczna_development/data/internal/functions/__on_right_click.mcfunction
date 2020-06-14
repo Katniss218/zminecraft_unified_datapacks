@@ -1,0 +1,1 @@
+execute if entity @s[nbt={SelectedItem:{tag:{FlameSword:1b}}}] run function internal:items/flame_sword-use

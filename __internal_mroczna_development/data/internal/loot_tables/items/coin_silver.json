@@ -1,0 +1,32 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:prismarine_crystals",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:2,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "Srebrna moneta", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Środek płatniczy, wybita", "color": "dark_gray", "italic": false },
+								{ "text": "  z czystego srebra.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

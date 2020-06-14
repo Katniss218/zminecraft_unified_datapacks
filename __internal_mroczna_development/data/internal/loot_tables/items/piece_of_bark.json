@@ -1,0 +1,32 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:shulker_shell",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:2,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "Kawałek kory", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Niepalna, drzewoludy używają jej", "color": "dark_gray", "italic": false },
+								{ "text": "  aby chronić się przed ogniem.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

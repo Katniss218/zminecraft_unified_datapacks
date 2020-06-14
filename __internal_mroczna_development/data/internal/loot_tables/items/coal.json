@@ -1,0 +1,31 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:coal",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "Węgiel", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Podstawowy surowiec kowala.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

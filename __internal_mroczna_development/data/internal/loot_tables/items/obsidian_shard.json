@@ -1,0 +1,32 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:black_dye",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "Odłamek obsydianu", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Kawałek wulkanicznego szkła z", "color": "dark_gray", "italic": false },
+								{ "text": "  Evelance, ma ostre krawędzie.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_shovel",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:0,Damage:0,Unbreakable:1,HideFlags:63,Enchantments:[{id:\"minecraft:knockback\",lvl:1s}]}"
+						},{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 100.0,
+									"slot": "mainhand",
+									"name": "Attack Damage",
+									"attribute": "generic.attackDamage",
+									"operation": "addition"
+								},{
+									"amount": -3.0,
+									"slot": "mainhand",
+									"name": "Attack Speed",
+									"attribute": "generic.attackSpeed",
+									"operation": "addition"
+								}
+							]
+						},{
+							"function": "set_name",
+							"name": { "text": "NAZWA BRONI DRZEWCOWEJ", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  PRZYKŁADOWY OPIS BRONI DRZEWCOWEJ", "color": "dark_gray", "italic": false },
+								{ "text": "  DRUGA LINIJKA OPISU BRONI DRZEWCOWEJ.", "color": "dark_gray", "italic": false },
+								
+								{ "text": "" },
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "À 100", "color": "white" }
+								],
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "Æ 3.0", "color": "white" }
+								],
+								{ "text": "" },
+								[
+									{ "text": ">> ", "color": "gray", "italic": false },
+									{ "text": "Ú", "color": "white" },
+									{ "text": " 1", "color": "green" }
+								]
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

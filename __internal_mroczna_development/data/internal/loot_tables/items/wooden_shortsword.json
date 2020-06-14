@@ -1,0 +1,60 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_sword",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:2,Damage:0,Unbreakable:1,HideFlags:63}"
+						},{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 3.0,
+									"slot": "mainhand",
+									"name": "Attack Damage",
+									"attribute": "generic.attackDamage",
+									"operation": "addition"
+								},{
+									"amount": -2.0,
+									"slot": "mainhand",
+									"name": "Attack Speed",
+									"attribute": "generic.attackSpeed",
+									"operation": "addition"
+								}
+							]
+						},{
+							"function": "set_name",
+							"name": { "text": "Drewniany krótki miecz", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Nadaje się do walki w ciasnych.", "color": "dark_gray", "italic": false },
+								{ "text": "  pomieszczeniach.", "color": "dark_gray", "italic": false },
+								
+								{ "text": "" },
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "À 3", "color": "white" }
+								],
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "Æ 2.0", "color": "white" }
+								]
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

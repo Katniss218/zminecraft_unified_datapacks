@@ -1,0 +1,32 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:rotten_flesh",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:3,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "Mózg", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Trochę podgniły, a w dotyku", "color": "dark_gray", "italic": false },
+								{ "text": "  podobny do galaretki.", "color": "dark_gray", "italic": false }
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

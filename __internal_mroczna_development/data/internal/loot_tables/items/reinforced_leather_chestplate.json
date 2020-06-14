@@ -1,0 +1,50 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:leather_chestplate",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:1,Damage:0,display:{color:9718579},Unbreakable:1,HideFlags:63}"
+						},{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 4.0,
+									"slot": "chest",
+									"name": "Armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},{
+							"function": "set_name",
+							"name": { "text": "Skórzany kaftan", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "text": "  Nieco wytrzymalszy niż kaftan z", "color": "dark_gray", "italic": false },
+								{ "text": "  samej skóry.", "color": "dark_gray", "italic": false },
+								
+								{ "text": "" },
+								[
+									{ "text": "> ", "color": "gray", "italic": false },
+									{ "text": "Ã 4", "color": "white" }
+								]
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

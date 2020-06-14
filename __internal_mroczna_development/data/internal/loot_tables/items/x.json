@@ -1,0 +1,65 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:stone",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:0,Damage:0,Unbreakable:1,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "NAZWA SUROWCA", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								[ {"text":"","italic": "false"},
+								{"text":"-{","bold":true,"color":"dark_gray"},
+								{"text":"\u2747","color":"gold"},
+								{"text":"}-","bold":true,"color":"dark_gray"},
+								{"text":" ","color":"dark_gray"},
+								{"text":"Obra\u017cenia ","color":"yellow"},
+								{"text":"+2","bold":true,"color":"yellow"}] 
+							]
+						}
+					]
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:stick",
+					"functions":
+					[
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:0,Damage:0,Unbreakable:1,HideFlags:63}"
+						},{
+							"function": "set_name",
+							"name": { "text": "NAZWA SUROWCA", "color": "gray", "bold": true, "italic": "false" }
+						},{
+							"function": "set_lore",
+							"lore":
+							[
+								[ {"text":"","italic": "false"},
+								{"text":"-{","bold":true,"color":"dark_gray"},
+								{"text":" ","color":"dark_gray"},
+								{"text":"}-","bold":true,"color":"dark_gray"}]
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
