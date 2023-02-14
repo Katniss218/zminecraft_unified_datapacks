@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 8,
+		"description": "[1.18.1] Allows the usage of '/datapack disable vanilla' in maps to disable vanilla stuff, w/o breaking water physics."
+    }
+}
